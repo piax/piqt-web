@@ -2,12 +2,8 @@
 layout: default
 title: PIQT distributed pub/sub broker
 ---
-<center>
-<br>
-<br>
-<banner>PIQT</banner><br>
-[píː-ái-kjúː-tíː / pikt] 
-</center>
+<div class="banner">PIQT</div>
+<div class="banner_bottom">[píː-ái-kjúː-tíː / pikt]</div>
 
 PIQT is a Java implementation of a peer-to-peer based distributed pub/sub broker.
 
